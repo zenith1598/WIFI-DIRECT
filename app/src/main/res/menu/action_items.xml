@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/atn_direct_enable"
+        android:icon="@android:drawable/button_onoff_indicator_on"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/enable_p2p_button" />
+
+    <item
+        android:id="@+id/atn_direct_discover"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/discover_peer_button" />
+
+
+</menu>

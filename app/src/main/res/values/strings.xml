@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Xender</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connect_to_peer">Connect to peer</string>
+    <string name="disconnect_peer">Discoonect from peer</string>
+    <string name="get_file">Get File</string>
+    <string name="label_me">Label Me</string>
+    <string name="lable_peers">Lable Peers</string>
+    <string name="empty_message">Empty Message</string>
+    <string name="group_owner_text">"Am I the Group Owner? "</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="client_text">This device will act as a client. Click on Gallery button to pick a local(stored) file</string>
+    <string name="enable_p2p_button">Enable P2p Button</string>
+    <string name="discover_peer_button">Discover peer button</string>
+</resources>
